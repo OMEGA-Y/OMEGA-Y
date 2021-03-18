@@ -1,4 +1,13 @@
 ### Hi there 👋
+- 🌱 I'm a senior at Chungnam National University in Korea.
+- 📚 I'm currently learning data science and deep learning.
+- 💪 I can use Python,Java and Javascript.
+- 🧐 I'm intersting in AI.
+
+
+###### To contact me
+- LinkedIn : https://www.linkedin.com/in/yunseon-choi
+- Email : yunseon.choi99@gmail.com
 
 <!--
 **OMEGA-Y/OMEGA-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
